@@ -126,10 +126,6 @@ Leverages system dictionaries (/usr/share/dict/words) to create:
 - Pattern complexity affects generation time
 - Requires sufficient disk space for output
 
-## License
-
-GNU General Public License v3.0
-
 ---
 
 *Anuris Wordlist Generator - For educational and authorized testing purposes only.*
