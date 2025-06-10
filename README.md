@@ -1,6 +1,4 @@
-# Anuris Wordlist Generator
-
-![Anuris Logo](https://via.placeholder.com/150x50?text=Anuris+Wordlist+Generator)  
+# Anuris Wordlist Generator  
 *Powerful wordlist generation tool inspired by Crunch*
 
 ## Table of Contents
