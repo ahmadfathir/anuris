@@ -13,7 +13,6 @@
 - [Advanced Options](#advanced-options)
 - [Examples](#examples)
 - [Limitations](#limitations)
-- [License](#license)
 
 ## Introduction
 
@@ -29,7 +28,7 @@ Anuris Wordlist Generator (named after the Egyptian god Anhur, deity of war and 
 - Customizable output formats
 - Memory and CPU management options
 - Cross-platform compatibility (any system with Bash)
-- Open source (GPLv3 licensed)
+- Open source
 
 ## Installation
 
